@@ -23,7 +23,7 @@ Nosso site tem como objetivo encontrar novos lares para animais desabrigados, ar
 
 As tecnologias utilizadas serão HTML5, CSS, JavaScript e nosso banco de dados será o SQL. Quanto a frameworks, ainda não definimos se iremos utilizar algum.
 
-Modelagem do Banco de Dados
+### Modelagem do Banco de Dados
 
 Teremos as seguintes tabelas: animais para doação, animais perdidos, quem mais doou para abrigos (para criarmos um ranking de doações) e também teremos tabelas de login.
 
