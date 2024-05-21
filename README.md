@@ -1,7 +1,9 @@
 # Projeto-Integrador
 
-Nomes:Bruno Henrique, Guilherme, Arthur
+Nomes:Bruno Henrique, Guilherme, Arthur.
+
 Turma:TDS 23-T1
+
 Introdução
 
 Para o nosso Projeto Integrador, escolhemos o tema da doação de animais, considerando que vários animais foram perdidos e abandonados devido às enchentes.
