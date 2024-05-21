@@ -16,7 +16,9 @@ Nosso site tem como objetivo encontrar novos lares para animais desabrigados, ar
 Funcionalidades:
 
 ⦁	Doação de animais
+
 ⦁	Encontrar animais perdidos
+
 ⦁	Doação para abrigos
 
 Tecnologias:
